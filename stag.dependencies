@@ -1,0 +1,12 @@
+[
+  {
+    "repository": "vamsiraju23/kernel_lge_msm8998",
+    "target_path": "kernel/lge/msm8998",
+    "branch": "lineage-17.1"
+  },
+  {
+    "repository": "vendor_lge",
+    "target_path": "vendor/lge",
+    "branch": "lineage-17.1"
+  }
+]
